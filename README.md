@@ -1,7 +1,7 @@
 # Port-Scanner
 Python script that prompts for a target IP address, iterates through a specified range of ports, and logs which ports are open.
 
-Python Port Scanner
+# Python Port Scanner
 This is a simple, educational port scanner built with Python. It provides a foundational example for understanding network communication and the use of the socket library. This tool is designed for learning and ethical use, helping to demonstrate how to programmatically check for open ports on a network host.
 
 Features
